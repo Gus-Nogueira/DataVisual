@@ -1,11 +1,11 @@
 
 
+
+
+
 package com.mycompany.poojava;
 
-/**
- *
- * @author gusta
- */
+
 public class PooJava {
 
     public static void main(String[] args) {
@@ -20,7 +20,7 @@ public class PooJava {
         celularA.setArmazenamento(256);
         celularA.setTela(6.5);*/
         
-        System.out.println("marca......." + a.nome + a.armazenamento + a.tela);
+        System.out.println("celular......." + a.nome + "  " + a.armazenamento + "  " + a.tela);
         
         
         
