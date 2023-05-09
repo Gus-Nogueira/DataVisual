@@ -1,2 +1,2 @@
-# Projeto1-Gustavo_Nogueira
+# Visualização de Dados
 Aprendendo a visualizar dados usando a biblioteca matplotlib
